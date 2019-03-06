@@ -4,9 +4,9 @@ Set two github users against each other to see who has the highest rank. This is
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, run the command:
 
 ### `npm run start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The app will run in development mode and automatically
+opens in the browser at [http://localhost:3000](http://localhost:3000).
