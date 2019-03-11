@@ -9,4 +9,4 @@ In the project directory, run the command:
 ### `npm run start`
 
 The app will run in development mode and automatically
-opens in the browser at [http://localhost:3000](http://localhost:3000).
+opens in the browser at [http://localhost:8080](http://localhost:8080).
