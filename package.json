@@ -8,7 +8,9 @@
       "@babel/preset-env",
       "@babel/preset-react"
     ],
-    "plugins": ["@babel/plugin-proposal-class-properties"]
+    "plugins": [
+      "@babel/plugin-proposal-class-properties"
+    ]
   },
   "scripts": {
     "start": "webpack-dev-server --open",
@@ -21,12 +23,12 @@
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
-    "axios": "^0.18.0",
     "prop-types": "^15.7.2",
     "query-string": "^6.4.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-router-dom": "^4.3.1"
+    "react-router-dom": "^4.3.1",
+    "whatwg-fetch": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
